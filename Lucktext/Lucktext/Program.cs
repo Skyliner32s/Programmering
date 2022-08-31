@@ -21,6 +21,6 @@ fluid = Console.ReadLine();
 Console.WriteLine("Skriv ett bil märke");
 car = Console.ReadLine();
 
-Console.WriteLine("");
+Console.WriteLine("Goodbye");
 
 Console.ReadLine();
