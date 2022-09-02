@@ -21,6 +21,6 @@ fluid = Console.ReadLine();
 Console.WriteLine("Skriv ett bil märke");
 car = Console.ReadLine();
 
-Console.WriteLine("Goodbye");
+Console.WriteLine($"{name} åker i en {car} gjord av {fluid} och han kör den med sin {bodyPart}");
 
 Console.ReadLine();

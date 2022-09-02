@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Lucktext/Lucktext/bin/Debug/net6.0/Lucktext.dll",
+            "program": "${workspaceFolder}/Interactive-story/bin/Debug/net6.0/Interactive-story.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Lucktext/Lucktext",
+            "cwd": "${workspaceFolder}/Interactive-story",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "externalTerminal",
             "stopAtEntry": false
